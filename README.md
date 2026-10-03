@@ -1,7 +1,16 @@
 # Zephyron – Agentic AI Platform
-Designed and Developed by NIKHIL CHARY SRIRAMOJU
-
 Static console (agents, RAG, CNN, tools, evals, Live AI) in `index.html`, plus an optional FastAPI backend in `api/`.
+
+*Designed and Developed by*
+# **NIKHIL CHARY SRIRAMOJU**
+BTech CSE (Final Year)
+
+- GitHub: [Nikhil-creat](https://github.com/Nikhil-creat)
+- LinkedIn: [nikhil-chary-sriramoju](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a)
+- Email: sriramojunikhil66@gmail.com
+- Instagram: [@nikhil__sriramoju](https://www.instagram.com/nikhil__sriramoju)
+- Facebook: [Profile](https://www.facebook.com/profile.php?id=100079201124141)
+
 
 ## Run locally
 - Open `index.html`, or `docker compose up` then visit http://localhost:8080
