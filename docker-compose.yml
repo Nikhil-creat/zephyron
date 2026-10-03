@@ -1,0 +1,9 @@
+services:
+  api:
+    build: ./api
+    environment: [GROQ_API_KEY]
+    ports: ["8000:8000"]
+  web:
+    image: nginx:alpine
+    volumes: ["./index.html:/usr/share/nginx/html/index.html:ro"]
+    ports: ["8080:80"]
